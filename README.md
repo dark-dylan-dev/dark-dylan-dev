@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Dylan</h1>
-<h4><i>A passionate C++ student developper</i></h4>
+<h4><i>C++ student developper & Real-Time graphics enthusiast</i></h4>
 
 <picture>
   <source
@@ -15,19 +15,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dark-dylan-dev&rank_icon=github&show_icons=true&include_all_commits=true&hide_title=true" />
 </picture>
 
-## Featured projects
+## Featured repositories
 
 <table>
   <tr>
-    <th>My latest project</th>
+    <th>My portfolio</th>
     <th>My ongoing project</th>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/dark-dylan-dev/ProjetIA" target="BLANK">
+      <a href="https://github.com/dark-dylan-dev/portfolio" target="BLANK">
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=dark-dylan-dev&repo=ProjetIA&theme=github_dark"
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=dark-dylan-dev&repo=portfolio&theme=github_dark"
             media="(prefers-color-scheme: dark)"
           />
           <source
