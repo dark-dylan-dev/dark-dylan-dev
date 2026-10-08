@@ -29,7 +29,7 @@ I have experience as both an:
 - Android Developer (Kotlin, Android Studio)
 - Unity Developer (Unity, C#, Visual Studio)
 
-I'm looking for a 3+ month internship starting in April 2027
+I'm looking for a 3+ month internship starting in May 2027
 
 And a 2-year apprenticeship from September 2027 to September 2029
 
