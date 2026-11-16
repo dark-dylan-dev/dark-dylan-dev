@@ -25,6 +25,8 @@ Some of my projects are pinned below this README, feel free to check them out :)
 
 Here's my portfolio: [https://www.dylan-hollemaert.fr/](https://www.dylan-hollemaert.fr/)
 
+And my blog: [https://www.dylan-hollemaert.fr/blog/](https://www.dylan-hollemaert.fr/blog/)
+
 I have experience as both an:
 - Android Developer (Kotlin, Android Studio)
 - Unity Developer (Unity, C#, Visual Studio)
